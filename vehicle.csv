@@ -1,0 +1,33 @@
+﻿Year,Case Vehicle ID,Vehicle Body Type,Registration Class,Action Prior to Accident,Type / Axles of Truck or Bus,Direction of Travel,Fuel Type,Vehicle Year,State of Registration,Number of Occupants,Engine Cylinders,Vehicle Make,Contributing Factor 1,Contributing Factor 1 Description,Contributing Factor 2,Contributing Factor 2 Description,Event Type,Partial VIN
+2018,15232120,VAN TRUCK,AGRICULTURAL TRUCK,Parked,Not Entered,North,Gas,2015,NY,0,4,NISSA,HUMAN,Not Entered,HUMAN,Not Entered,Not Entered,3N6CM0KN2FK713460
+2018,15232535,SUBURBAN,PASSENGER OR SUBURBAN,Making U Turn,Not Entered,South,Gas,2015,NY,1,6,HONDA,HUMAN,Not Entered,HUMAN,Unknown,Not Entered,5J6TF2H55FL001556
+2018,15232536,SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,,PA,1,,,HUMAN,Not Entered,HUMAN,Unknown,Not Entered,
+2018,15232557,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2013,NY,5,4,NISSA,HUMAN,Passenger Distraction,VEHICLE,Other*,Not Entered,1N4AL3AP8DC229156
+2018,15232556,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,2,8,CADIL,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,3GYFK22209G213337
+2018,15233276,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,West,Gas,2008,NY,0,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G2WP552081121158
+2018,15233275,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,1997,NY,1,6,BUICK,HUMAN,Not Applicable,HUMAN,Backing Unsafely,Not Applicable,1G4GD2219V4712927
+2018,15233301,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,East,Gas,2007,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Backing Unsafely,Not Applicable,1N4AL21E27N432898
+2018,15233300,TRACTOR,Not Entered,Parked,Not Entered,West,Not Entered,2017,RI,0,,PTRB,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1XPBDP0X9HD419079
+2018,15233304,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2016,NY,1,,FORD,HUMAN,Not Applicable,ENVMT,Animal's Action,Not Applicable,1FAHP2MK0GG133791
+2018,15233323,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,East,Gas,2005,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Backing Unsafely,Not Applicable,2T1BR32E55C473110
+2018,15233322,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Starting from Parking,Not Entered,West,Gas,2015,NY,1,4,VOLKS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3VWF17AT5FM602808
+2018,15233326,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2016,NJ,1,,HOND,HUMAN,Not Applicable,HUMAN,Unsafe Speed,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",19XFC2F73GE215374
+2018,15233338,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,1,8,CHEVR,HUMAN,Not Applicable,ENVMT,Pavement Slippery,Not Applicable,1GCRKSE79DZ185489
+2018,15233340,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2003,PA,3,,HOND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,SHSRD78823U159096
+2018,15233339,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2010,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Failure to Yield Right-of-Way,Not Applicable,JTEBU5JR8A5003672
+2018,15233343,PICKUP TRUCK,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,,NY,1,,,HUMAN,Not Entered,HUMAN,Aggressive Driving/Road Rage,Not Entered,
+2018,15233344,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2012,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1GCRKSE71CZ200596
+2018,15233366,UNKNOWN VEHICLE,Not Entered,Unknown,Not Entered,Unknown,Not Entered,,,,,,HUMAN,Not Applicable,HUMAN,Unknown,Not Applicable,
+2018,15233367,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2014,NY,0,6,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAUWGAFC7EN084631
+2018,15233368,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,2,6,BUICK,HUMAN,Reaction to Other Uninvolved Vehicle,ENVMT,Pavement Slippery,Not Applicable,1G4HD57257U210376
+2018,15233376,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,4,DODGE,ENVMT,Animal's Action,ENVMT,Pavement Slippery,Not Applicable,1C3CDZAB5DN710899
+2018,15233388,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2000,NY,1,6,NISSA,HUMAN,Not Applicable,HUMAN,Passing or Lane Usage Improper,Not Applicable,4N2XN11T0YD836410
+2018,15233653,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,WDDGF8BB3BR140042
+2018,15233711,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,2003,NY,2,6,NISSA,HUMAN,Not Applicable,HUMAN,Alcohol Involvement,Not Applicable,JN8AZ08W43W230844
+2018,15233710,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2007,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGFA16837L065042
+2018,15233726,2 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2010,NY,1,,CHEV,HUMAN,Not Applicable,ENVMT,Pavement Slippery,Not Applicable,
+2018,15233772,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2006,NY,2,6,PONTI,HUMAN,Not Applicable,ENVMT,Pavement Slippery,Not Applicable,2G2WP552161129881
+2018,15233773,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2010,NY,5,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNAGG4A89A5387476
+2018,15233825,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,,6,JEEP,HUMAN,Not Applicable,HUMAN,Unsafe Speed,Not Applicable,1J4GL48K42W134569
+2018,15233826,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2005,NY,0,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1G2ZG528X54167313
+2018,15233845,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,4,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,3FADP4BJ4EM215708

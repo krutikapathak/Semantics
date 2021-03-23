@@ -1,0 +1,30 @@
+﻿Year,Case Individual ID,Case Vehicle ID,Victim Status,Role Type,Seating Position,Ejection,License State Code,Sex,Transported By,Safety Equipment,Injury Descriptor,Injury Location,Injury Severity,Age
+2018,18838198,14378647,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,42
+2018,19990044,15231379,Not Applicable,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Air Bag Deployed/Lap Belt/Harness,Not Applicable,Not Applicable,Uninjured,25
+2018,19991203,15232104,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt,Not Entered,Not Entered,Uninjured,20
+2018,19991204,15232103,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt,Not Entered,Not Entered,Uninjured,33
+2018,19991208,15232112,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Unknown,"Momentary unconsciousness, limping, nausea, hysteria, complaint of pain (no visible injury), whiplash.",Not Applicable,Minor,25
+2018,19991209,15232113,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt/Harness,Not Applicable,Not Applicable,Uninjured,27
+2018,19991210,15232111,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt/Harness,Not Applicable,Not Applicable,Uninjured,45
+2018,19991211,15232114,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt/Harness,Not Applicable,Not Applicable,Uninjured,60
+2018,476853,15254915,,Driver -- Missing Information,Driver,,,U,,,,,Uninjured,
+2018,20022039,15232119,Not Entered,Registrant,Not Entered,Not Entered,NY,M,,,,,Uninjured,32
+2018,20022040,15232120,Not Entered,Registrant,Not Entered,Not Entered,,U,,,,,Uninjured,
+2018,19991779,15232535,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,F,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,23
+2018,19991780,15232536,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,49
+2018,19991802,15232557,Not Entered,Registrant,Not Entered,Not Entered,NY,F,,,,,Uninjured,61
+2018,19991803,15232556,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,F,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,55
+2018,20025221,15232556,Not Entered,Passenger of a Motor Vehicle in Transport,Passenger - 3 Front Right,Not Ejected,,M,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,54
+2018,20025222,15232557,Not Entered,Passenger of a Motor Vehicle in Transport,Unknown Seating Passenger,Not Ejected,,F,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,61
+2018,20025223,15232557,Not Entered,Passenger of a Motor Vehicle in Transport,Passenger - 3 Front Right,Not Ejected,,M,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,34
+2018,20025224,15232557,Not Entered,Passenger of a Motor Vehicle in Transport,Passenger - 4 Back Left,Not Ejected,,F,Not Entered,None,Not Entered,Not Entered,Uninjured,32
+2018,20025225,15232557,Not Entered,Passenger of a Motor Vehicle in Transport,Passenger - 5 Back Middle,Not Ejected,,F,Not Entered,Lap Belt,Not Entered,Not Entered,Uninjured,4
+2018,20025226,15232557,Not Entered,Passenger of a Motor Vehicle in Transport,Passenger - 6 Back Right,Not Ejected,,F,Not Entered,Lap Belt,Not Entered,Not Entered,Uninjured,59
+2018,19992719,15233275,Not Applicable,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,F,Not Entered,Lap Belt/Harness,Not Applicable,Not Applicable,Uninjured,67
+2018,19992721,15233276,Not Entered,Registrant,Not Entered,Not Entered,,M,,,,,Uninjured,28
+2018,476700,15233300,,Registrant,Not Entered,,,U,,,,,Uninjured,
+2018,19992761,15233301,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,F,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,37
+2018,19992767,15233304,Not Applicable,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,M,Not Entered,None,Not Applicable,Not Applicable,Uninjured,28
+2018,19992799,15233322,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,F,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,60
+2018,19992800,15233323,Not Entered,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NY,F,Not Entered,Lap Belt/Harness,Not Entered,Not Entered,Uninjured,31
+2018,19992806,15233326,Conscious,Driver of a Motor Vehicle in Transport,Driver,Not Ejected,NJ,F,Unknown Ambulance,Lap Belt/Harness,Complaint of Pain,Head,Minor,20
