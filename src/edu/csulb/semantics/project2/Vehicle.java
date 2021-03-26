@@ -1,14 +1,14 @@
 package edu.csulb.semantics.project2;
 
-import com.google.common.net.UrlEscapers;
-
+/**
+ * @author krutikapathak
+ *
+ */
 public class Vehicle {
 
 	private int occupants, vehicleYear, engineCylinder;
 	private String caseVehicleId, vehicleBodytype, registrationClass, axleType, fuelType, registrationState,
-			vehicleMake, vin, safetyEquipment;
-//	Individual ind;
-//	Crash crash;
+			vehicleMake, vin;
 
 	// == Constructor ==//
 	private Vehicle(String ID) {
@@ -19,18 +19,6 @@ public class Vehicle {
 	public static Vehicle create(String ID) {
 		return new Vehicle(ID);
 	}
-
-	public String getIDAsURI() {
-		return escapeURI(caseVehicleId);
-	}
-
-//	public String getIndividualAsURI() {
-//		return escapeURI(ind.getCaseVehicleId());
-//	}
-//
-//	public String getCrashAsURI() {
-//		return escapeURI(country);
-//	}
 
 	// == == Method to build a Vehicle object == ==//
 	public Vehicle hasBodyType(String bt) {
@@ -83,11 +71,6 @@ public class Vehicle {
 		return this;
 	}
 
-	public Vehicle hasSafetyEquipment(String sequip) {
-		this.safetyEquipment = sequip;
-		return this;
-	}
-
 	// getters
 	public int getOccupants() {
 		return occupants;
@@ -102,7 +85,7 @@ public class Vehicle {
 	}
 
 	public String getVehicleBodytype() {
-		return vehicleBodytype;
+		return vehicleBodytype == null ? "" : vehicleBodytype;
 	}
 
 	public String getRegistrationClass() {
@@ -132,13 +115,4 @@ public class Vehicle {
 	public String getVin() {
 		return vin;
 	}
-
-	public String getSafetyEquipment() {
-		return safetyEquipment;
-	}
-
-	public static String escapeURI(String s) {
-		return UrlEscapers.urlFragmentEscaper().escape(s);
-	}
-
 }

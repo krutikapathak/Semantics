@@ -1,5 +1,9 @@
 package edu.csulb.semantics.project2;
 
+/**
+ * @author krutikapathak
+ *
+ */
 public class Victim {
 
 	private String caseIndividualId, caseVehicleId, victimStatus, roleType, seatingPosition, ejection, licenseStateCode,
@@ -8,7 +12,7 @@ public class Victim {
 
 	// == Constructor ==//
 	private Victim(String ID) {
-		this.caseVehicleId = ID;
+		this.caseIndividualId = ID;
 	}
 
 	// == == Creation == ==//
@@ -17,8 +21,18 @@ public class Victim {
 	}
 
 	// == == Method to build a Vehicle object == ==//
-	public Victim hasCaseIndividualId(String caseId) {
-		this.caseIndividualId = caseId;
+	public Victim hasCaseVehicleId(String caseId) {
+		this.caseVehicleId = caseId;
+		return this;
+	}
+
+	public Victim hasCaseIndividualId(String caseIndId) {
+		this.caseIndividualId = caseIndId;
+		return this;
+	}
+
+	public Victim hasSafetyEquipment(String sequip) {
+		this.safetyEquipment = sequip;
 		return this;
 	}
 
@@ -79,7 +93,7 @@ public class Victim {
 
 	// getters
 	public String getCaseIndividualId() {
-		return caseIndividualId;
+		return caseIndividualId == null ? "" : caseIndividualId;
 	}
 
 	public String getCaseVehicleId() {
@@ -115,7 +129,7 @@ public class Victim {
 	}
 
 	public String getSafetyEquipment() {
-		return safetyEquipment;
+		return safetyEquipment == null ? "" : safetyEquipment;
 	}
 
 	public String getInjuryDesc() {
@@ -133,5 +147,4 @@ public class Victim {
 	public int getAge() {
 		return age;
 	}
-
 }
